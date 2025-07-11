@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.1">
+  <diagram name="Page-1" id="cLs3Y3HBaPIs850Z86Qr">
+    <mxGraphModel dx="872" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VqSJBEcp_1MvkS4O3J5--1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Bootstrap_Vol_3-2297/filetype-pdf-1006.svg" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VqSJBEcp_1MvkS4O3J5--4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Bootstrap_Vol_3-2297/filetype-pdf-1006.svg" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VqSJBEcp_1MvkS4O3J5--5" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VqSJBEcp_1MvkS4O3J5--6" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="40" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
